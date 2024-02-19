@@ -1,6 +1,6 @@
 # Module Dokka Gradle Example
 
-This is an example of how you can write module documentation with Dokka.
+This is from Module File
 
 # Package demo
 
